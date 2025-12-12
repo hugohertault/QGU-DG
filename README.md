@@ -200,7 +200,7 @@ If you use QGU-DG in your research, please cite:
              How Asymptotic Safety, Loop Quantum Gravity, String Theory, 
              Causal Dynamical Triangulations, and the Holographic Principle 
              Converge to a Single Framework},
-  journal = {arXiv preprint},
+  journal = {zenodo preprint},
   year    = {2025},
   eprint  = {2412.xxxxx},
   note    = {Paper III of the Dark Geometry Series}
@@ -210,7 +210,7 @@ If you use QGU-DG in your research, please cite:
   author  = {Hertault, Hugo},
   title   = {Dark Geometry: A Proposal for Unifying Dark Matter 
              and Dark Energy as the Scalar Dynamics of Spacetime},
-  journal = {arXiv preprint},
+  journal = {zenodo preprint},
   year    = {2025},
   eprint  = {2412.xxxxx},
   note    = {Paper I of the Dark Geometry Series}
@@ -220,7 +220,7 @@ If you use QGU-DG in your research, please cite:
   author  = {Hertault, Hugo},
   title   = {Holographic Dark Geometry: The Emergent Dimension 
              of the Dark Sector},
-  journal = {arXiv preprint},
+  journal = {zenodo preprint},
   year    = {2025},
   eprint  = {2412.xxxxx},
   note    = {Paper II of the Dark Geometry Series}
